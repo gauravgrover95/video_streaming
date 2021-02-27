@@ -41,10 +41,17 @@ http://localhost:<project-port>
 For opening in mobile on same network. 
 
 1. Determine ip of your computer system from network preferences or using ipconfig(windows) / ifconfig(unix based OS)
-2. type following in url bar
+2. Type following in url bar
 
 ```
 http://<ip>:<project-port>
 ```
 
 3. press enter
+
+
+
+#### TODO
+
+1. Make a dedicated android based app using exo-player utilizing dash stream
+2. Utilize ffmpeg to get the local mpeg-dash streams of live video from static file
